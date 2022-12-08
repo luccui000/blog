@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Models;
+namespace Luccui\ShareModel;
 
 // use Illuminate\Contracts\Auth\MustVerifyEmail;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
